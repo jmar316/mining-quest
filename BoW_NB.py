@@ -2,7 +2,7 @@ import csv, string, sys, re, random, itertools
 from collections import Counter
 from collections import defaultdict
 
-# Jason Martins - jason.j.martins@gmail.com
+# Jason Martins - contact: jason.j.martins@gmail.com
 # Bag-of-words Naive Bayes Implementation
 
 #####################################
